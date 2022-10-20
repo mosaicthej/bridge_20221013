@@ -1,0 +1,8 @@
+Safely erase all data.
+
+If can't run executable, 
+
+Try delete the existing executable, and do
+`gcc eraseData.c`
+
+
